@@ -3,11 +3,18 @@
 	{
 		"selected_items":
 		[
-			
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "Unit_01 Introduction/Lec_02/ReadMe.md",
+			"settings":
+			{
+				"buffer_size": 90,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/User/SublimeREPL-python.sublime-build",
 	"command_palette":
@@ -89,7 +96,6 @@
 	},
 	"file_history":
 	[
-		
 	],
 	"find":
 	{
@@ -107,7 +113,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -125,8 +130,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Unit_01 Introduction/Lec_02/ReadMe.md",
+					"settings":
+					{
+						"buffer_size": 90,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
